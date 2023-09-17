@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.androidassignments.app-mergeDebugResources-26:/values-fr-rFR/values-fr-rFR.xml",
+            "map": [
+                {
+                    "source": "/Users/tegveer/AndroidStudioProjects/AndroidAssignments/app/src/main/res/values-fr-rFR/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,111",
+                        "endColumns": "56,55,50",
+                        "endOffsets": "214,106,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,168",
+                        "endColumns": "56,55,50",
+                        "endOffsets": "107,163,214"
+                    }
+                }
+            ]
+        }
+    ]
+}
